@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import { RouterLink } from 'vue-router';
-</script>
-
 <template>
   <div class="drawer-side z-10">
     <label for="drawer" aria-label="close sidebar" class="drawer-overlay"></label>
@@ -16,7 +12,9 @@ import { RouterLink } from 'vue-router';
     </ul>
   </div>
 </template>
+
 <script lang="ts">
+import { RouterLink } from 'vue-router';
 export default {
   components: { RouterLink }
 }
