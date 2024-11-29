@@ -20,7 +20,7 @@
           </p>
           <div class="flex flex-col">
             <a class="btn btn-ghost"
-              href="https://play.google.com/store/apps/details?id=com.uys2000.uplayer&pcampaignid=web_share"
+              href="https://play.google.com/store/apps/details?id=com.uys2000.urecorder&pcampaignid=web_share"
               target="_blank">
               <img src="/images/play-store.png" class="w-8" />
               Download For Android</a>
