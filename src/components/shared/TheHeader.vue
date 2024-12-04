@@ -5,6 +5,9 @@
         URecorder
       </RouterLink>
       <div class="flex gap-2">
+        <a class="btn btn-sm btn-ghost" href="https://app.urecorder.mehmetuysal.dev">
+          Web App
+        </a>
         <RouterLink class="btn btn-sm btn-ghost" :to="{ name: 'AboutView' }">
           About
         </RouterLink>
