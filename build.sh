@@ -4,7 +4,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 ## set deploy path
-export DEPLOYPATH=/home/mehmetu/uplayer-mehmetuysal-dev/
+export DEPLOYPATH=/home/mehmetu/urecorder-mehmetuysal-dev/
 
 yarn
 yarn build
